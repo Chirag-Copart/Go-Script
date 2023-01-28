@@ -14,3 +14,11 @@ Feel free to change the variables on the beginning to match whatever version of 
 🛠️ Bash, fish, Zsh
 
 # Usage
+
+```
+https://github.com/Chirag-Copart/Go-Script.git
+cd Go-Script
+bash go.sh
+source /root/.zshrc
+go --version
+```
