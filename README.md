@@ -16,7 +16,7 @@ Feel free to change the variables on the beginning to match whatever version of 
 # Usage
 
 ```
-https://github.com/Chirag-Copart/Go-Script.git
+git clone https://github.com/Chirag-Copart/Go-Script.git
 cd Go-Script
 bash go.sh
 source /root/.zshrc
